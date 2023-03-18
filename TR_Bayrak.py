@@ -16,7 +16,7 @@ t.end_fill()
 
 # Hilal yapabilmek için ikinci daire
 t.goto(-70,-80)                 # Fare imleci lokasyonu
-t.color('DarkRed')                  # Kırmızı renk
+t.color('DarkRed')              # Kırmızı renk
 t.begin_fill()                  # Kırmızı rengi doldur
 t.circle(100)                   # Çapı
 t.end_fill()                    # Dolguyu Bitir
